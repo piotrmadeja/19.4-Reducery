@@ -1,0 +1,22 @@
+{
+  "name": "19.4-reducery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrmadeja/19.4-Reducery.git"
+  },
+  "author": "Piotr Madeja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrmadeja/19.4-Reducery/issues"
+  },
+  "homepage": "https://github.com/piotrmadeja/19.4-Reducery#readme",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
